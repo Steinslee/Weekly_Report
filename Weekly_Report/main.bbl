@@ -1,0 +1,155 @@
+\begin{thebibliography}{10}
+
+\bibitem{Abbas2009Deconvolution}
+A.~R. Abbas, K~Wolslegel, D~Seshasayee, Z~Modrusan, and H.~F. Clark.
+\newblock Deconvolution of blood microarray data identifies cellular activation
+  patterns in systemic lupus erythematosus.
+\newblock {\em Plos One}, 4(7):e6098, 2009.
+
+\bibitem{Altboum2014Digital}
+Zeev Altboum, Yael Steuerman, Eyal David, Zohar Barnett‐Itzhaki, Liran
+  Valadarsky, Hadas Keren‐Shaul, Tal Meningher, Ella Mendelson, Michal
+  Mandelboim, and Irit Gat‐Viks.
+\newblock Digital cell quantification identifies global immune cell dynamics
+  during influenza infection.
+\newblock {\em Molecular Systems Biology}, 10(2):720, 2014.
+
+\bibitem{Aran2017xCell}
+Dvir Aran, Zicheng Hu, and Atul~J. Butte.
+\newblock xcell: digitally portraying the tissue cellular heterogeneity
+  landscape.
+\newblock {\em Genome Biology}, 18(1):220, 2017.
+
+\bibitem{Etienne2016Estimating}
+Etienne Becht, Nicolas~A. Giraldo, Laetitia Lacroix, Bénédicte Buttard,
+  Nabila Elarouci, Florent Petitprez, Janick Selves, Pierre Laurent-Puig,
+  Catherine Sautès-Fridman, and Wolf~H. Fridman.
+\newblock Estimating the population abundance of tissue-infiltrating immune and
+  stromal cell populations using gene expression.
+\newblock {\em Genome Biology}, 17(1):218, 2016.
+
+\bibitem{Bo2016Comprehensive}
+Li~Bo, Eric Severson, Jean~Christophe Pignon, Haoquan Zhao, Taiwen Li, Jesse
+  Novak, Jiang Peng, Shen Hui, Jon~C. Aster, and Scott Rodig.
+\newblock Comprehensive analyses of tumor immunity: implications for cancer
+  immunotherapy.
+\newblock {\em Genome Biology}, 17(1):174, 2016.
+
+\bibitem{Chen2018}
+Shu-Hwa Chen, Wen-Yu Kuo, Sheng-Yao Su, Wei-Chun Chung, Jen-Ming Ho, Henry
+  Horng-Shing Lu, and Chung-Yen Lin.
+\newblock A gene profiling deconvolution approach to estimating immune cell
+  composition from complex tissues.
+\newblock {\em BMC Bioinformatics}, 19(4):154, May 2018.
+
+\bibitem{Danaher2017}
+Patrick Danaher, Sarah Warren, Lucas Dennis, Leonard D'Amico, Andrew White,
+  Mary~L. Disis, Melissa~A. Geller, Kunle Odunsi, Joseph Beechem, and Steven~P.
+  Fling.
+\newblock Gene expression markers of tumor infiltrating leukocytes.
+\newblock {\em Journal for ImmunoTherapy of Cancer}, 5(1):18, Feb 2017.
+
+\bibitem{Finotello2018Quantifying}
+Francesca Finotello and Zlatko Trajanoski.
+\newblock Quantifying tumor-infiltrating immune cells from transcriptomics
+  data.
+\newblock {\em Cancer Immunology Immunotherapy}, 67(7):1031--1040, 2018.
+
+\bibitem{Gong2011Optimal}
+T.~Gong, N~Hartmann, I.~S. Kohane, V~Brinkmann, F~Staedtler, M~Letzkus,
+  S~Bongiovanni, and J.~D. Szustakowski.
+\newblock Optimal deconvolution of transcriptional profiling data using
+  quadratic programming with application to complex clinical blood samples.
+\newblock {\em Plos One}, 6(11):e27156, 2011.
+
+\bibitem{Hao358366}
+Yuning Hao, Ming Yan, Yu~Leo Lei, and Yuying Xie.
+\newblock Fast and robust deconvolution of tumor infiltrating lymphocyte from
+  expression profiles using least trimmed squares.
+\newblock {\em bioRxiv}, 2018.
+
+\bibitem{Lehmusvaara2010Probabilistic}
+Saara Lehmusvaara, Pekka Ruusuvuori, Tapio Visakorpi, and Ilya Shmulevich.
+\newblock Probabilistic analysis of gene expression measurements from
+  heterogeneous tissues.
+\newblock {\em Bioinformatics}, 26(20):2571--2577, 2010.
+
+\bibitem{Li2017Revisit}
+B.~Li, J.~S. Liu, and X.~S. Liu.
+\newblock Revisit linear regression-based deconvolution methods for tumor gene
+  expression data.
+\newblock {\em Genome Biology}, 18(1):127, 2017.
+
+\bibitem{Liebner2014MMAD}
+David~A Liebner, Kun Huang, and Jeffrey~D Parvin.
+\newblock Mmad: microarray microdissection with analysis of differences is a
+  computational tool for deconvoluting cell type-specific contributions from
+  tissue samples.
+\newblock {\em Bioinformatics}, 30(5):682, 2014.
+
+\bibitem{Mohammadi2017A}
+Shahin Mohammadi, Neta Zuckerman, Andrea Goldsmith, and Ananth Grama.
+\newblock A critical survey of deconvolution methods for separating cell types
+  in complex tissues.
+\newblock {\em Proceedings of the IEEE}, 105(2):340--366, 2017.
+
+\bibitem{Newman2015Robust}
+A.~M. Newman, C.~L. Liu, M.~R. Green, A.~J. Gentles, W.~Feng, Y.~Xu, C.~D.
+  Hoang, M~Diehn, and A.~A. Alizadeh.
+\newblock Robust enumeration of cell subsets from tissue expression profiles.
+\newblock {\em Nature Methods}, 12(5):453--457, 2015.
+
+\bibitem{Newman2016High}
+Aaron~M Newman and Ash~A Alizadeh.
+\newblock High-throughput genomic profiling of tumor-infiltrating leukocytes.
+\newblock {\em Current Opinion in Immunology}, 41:77--84, 2016.
+
+\bibitem{Newman2017Data}
+Aaron~M. Newman, Andrew~J. Gentles, Chih~Long Liu, Maximilian Diehn, and Ash~A.
+  Alizadeh.
+\newblock Data normalization considerations for digital tumor dissection.
+\newblock {\em Genome Biology}, 18(1):128, 2017.
+
+\bibitem{Nirmal1388}
+Ajit~J. Nirmal, Tim Regan, Barbara~B. Shih, David~A. Hume, Andrew~H. Sims, and
+  Tom~C. Freeman.
+\newblock Immune cell gene signatures for profiling the microenvironment of
+  solid tumors.
+\newblock {\em Cancer Immunology Research}, 6(11):1388--1400, 2018.
+
+\bibitem{Qiao2012PERT}
+Wenlian Qiao, Gerald Quon, Elizabeth Csaszar, Mei Yu, Quaid Morris, and
+  Peter~W. Zandstra.
+\newblock Pert: A method for expression deconvolution of human blood samples
+  from varied microenvironmental and developmental conditions.
+\newblock {\em Plos Computational Biology}, 8(12):e1002838, 2012.
+
+\bibitem{Schelker2017Estimation}
+Max Schelker, Sonia Feau, Jinyan Du, Nav Ranu, Edda Klipp, Gavin Macbeath,
+  Birgit Schoeberl, and Andreas Raue.
+\newblock Estimation of immune cell content in tumour tissue using single-cell
+  rna-seq data.
+\newblock {\em Nature Communications}, 8(1), 2017.
+
+\bibitem{Sturm463828}
+Gregor Sturm, Francesca Finotello, Florent Petitprez, Jitao~David Zhang, Jan
+  Baumbach, Wolf~H Fridman, Markus List, and Tatsiana Aneichyk.
+\newblock Comprehensive evaluation of computational cell-type quantification
+  methods for immuno-oncology.
+\newblock {\em bioRxiv}, 2019.
+
+\bibitem{Vallania206466}
+Francesco Vallania, Andrew Tam, Shane Lofgren, Steven Schaffert, Tej~D. Azad,
+  Erika Bongen, Meia Alsup, Michael Alonso, Mark Davis, Edgar Engleman, and
+  Purvesh Khatri.
+\newblock Leveraging heterogeneity across multiple data sets increases accuracy
+  of cell-mixture deconvolution and reduces biological and technical biases.
+\newblock {\em bioRxiv}, 2017.
+
+\bibitem{Yi2013Digital}
+Zhong Yi, Ying~Wooi Wan, Kaifang Pang, Lionel~Ml Chow, and Zhandong Liu.
+\newblock Digital sorting of complex tissues for cell type-specific gene
+  expression profiles.
+\newblock {\em Bmc Bioinformatics}, 14(1):89--89, 2013.
+
+\end{thebibliography}
